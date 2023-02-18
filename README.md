@@ -20,6 +20,15 @@ Terdapat 2 level untuk pengguna:
 - Level 1: Admin
 - Level 2: User
 
+
+**** Untuk Admin ****<br/>
+username : admin <br/>
+password : admin
+
+**** Untuk User ****<br/>
+username : user <br/>
+password : user
+
 <h3>Preview Aplikasi Aplikasi Restoran Web</h3>
 <p>Tampilan Login Aplikasi Restoran</p>
 <img src="https://github.com/MuhamadRifqiAshari/Aplikasi-Restoran-Web-Versi-Ke3/blob/main/Dokumentasi/Tampilan%20Login.png">
